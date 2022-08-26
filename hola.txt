@@ -1,1 +1,2 @@
-Hello World from terminal
+Hello World from terminalA line from local
+\n Another line from local
