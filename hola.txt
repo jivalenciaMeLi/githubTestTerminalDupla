@@ -1,2 +1,3 @@
-Hello World from terminalA line from local
-\n Another line from local
+Hello World from terminal
+
+A line from github
